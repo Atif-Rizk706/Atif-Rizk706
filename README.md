@@ -1,16 +1,15 @@
-## Hi there 👋
+i 👋, I'm Atif Rizk
+### Junior Software Developer
 
-<!--
-**Atif-Rizk706/Atif-Rizk706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Interested in Web Development & DevOps
+- 🌱 Currently learning Laravel & Backend
+- 👯 Open to collaborate on Open Source projects
+- 🎯 Goal: Become a professional Software Engineer
+- 📫 Reach me: your-email@gmail.com
 
-Here are some ideas to get you started:
+### Languages & Tools:
+![My Skills](https://skillicons.dev/icons?i=php,laravel,js,html,css,git,github,linux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+- GitHub: https://github.com/Atif-Rizk706
+-
