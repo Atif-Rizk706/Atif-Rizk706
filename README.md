@@ -1,6 +1,5 @@
 <h1 align="center"> i 👋, I'm Atif Rizk  </h1>
-                                
-                                <h3 align="center">  ### Junior Software Developer </h3>
+<h3 align="center">  ### Junior Software Developer </h3>
 
 - 💻 Interested in Web Development & DevOps
 - 🌱 Currently learning Laravel & Backend
